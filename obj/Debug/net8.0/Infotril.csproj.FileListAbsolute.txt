@@ -1,0 +1,14 @@
+/home/jesus/Infotril/bin/Debug/net8.0/Infotril
+/home/jesus/Infotril/bin/Debug/net8.0/Infotril.deps.json
+/home/jesus/Infotril/bin/Debug/net8.0/Infotril.runtimeconfig.json
+/home/jesus/Infotril/bin/Debug/net8.0/Infotril.dll
+/home/jesus/Infotril/bin/Debug/net8.0/Infotril.pdb
+/home/jesus/Infotril/obj/Debug/net8.0/Infotril.GeneratedMSBuildEditorConfig.editorconfig
+/home/jesus/Infotril/obj/Debug/net8.0/Infotril.AssemblyInfoInputs.cache
+/home/jesus/Infotril/obj/Debug/net8.0/Infotril.AssemblyInfo.cs
+/home/jesus/Infotril/obj/Debug/net8.0/Infotril.csproj.CoreCompileInputs.cache
+/home/jesus/Infotril/obj/Debug/net8.0/Infotril.dll
+/home/jesus/Infotril/obj/Debug/net8.0/refint/Infotril.dll
+/home/jesus/Infotril/obj/Debug/net8.0/Infotril.pdb
+/home/jesus/Infotril/obj/Debug/net8.0/Infotril.genruntimeconfig.cache
+/home/jesus/Infotril/obj/Debug/net8.0/ref/Infotril.dll
